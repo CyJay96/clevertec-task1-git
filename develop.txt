@@ -1,3 +1,4 @@
 refactor: rename method X
 style: format class Y
 docs: document pipeline
+test: refactor test for method X
