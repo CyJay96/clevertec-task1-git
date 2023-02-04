@@ -1,1 +1,2 @@
 feat: add feature X for future release
+feat: add feature Y for future release
