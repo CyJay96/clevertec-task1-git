@@ -1,1 +1,2 @@
 feat: add CI/CD pipeline
+fix: fix CI/CD pipeline
