@@ -1,1 +1,2 @@
 refactor: rename method X
+style: format class Y
