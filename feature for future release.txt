@@ -1,0 +1,4 @@
+feat: add feature X for future release
+feat: add feature Y for future release
+feat: add feature Z for future release
+feat: add final feature for future release
