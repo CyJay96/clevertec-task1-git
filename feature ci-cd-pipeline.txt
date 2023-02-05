@@ -1,0 +1,3 @@
+feat: add CI/CD pipeline
+fix: fix CI/CD pipeline
+docs: document CI/CD pipeline
